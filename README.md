@@ -1,4 +1,4 @@
-# Plantilla para TP Integrador usando ply compiler (Python)
+# Plantilla para TP Integrador usando PLY compiler (Python)
 
 PLY es una implementación puramente Python de las populares herramientas de construcción de compiladores lex y yacc.
 
